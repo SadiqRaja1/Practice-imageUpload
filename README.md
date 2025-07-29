@@ -1,0 +1,1 @@
+# In this project we are using multer in MERN stack to upload images.
